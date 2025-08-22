@@ -1,2 +1,8 @@
 nombre = "Perez"
-print("Holo " + nombre)
+
+
+def hello():
+    print("Hola " + nombre)
+
+
+hello()
